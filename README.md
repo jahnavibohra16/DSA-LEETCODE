@@ -57,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0001-two-sum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
