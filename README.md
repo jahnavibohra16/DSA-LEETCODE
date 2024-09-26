@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 ## Matrix
 |  |
@@ -76,9 +77,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
