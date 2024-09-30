@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Segment Tree
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -136,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
