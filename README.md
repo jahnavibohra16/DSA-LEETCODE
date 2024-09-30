@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2058-concatenation-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
