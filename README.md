@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Matrix
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 ## Design
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
