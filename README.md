@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 ## Design
@@ -153,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
