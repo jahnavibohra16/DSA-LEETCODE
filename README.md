@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design
 |  |
 | ------- |
