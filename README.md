@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
