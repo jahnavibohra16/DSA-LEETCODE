@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
