@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 ## Segment Tree
