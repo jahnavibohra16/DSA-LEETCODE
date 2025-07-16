@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
