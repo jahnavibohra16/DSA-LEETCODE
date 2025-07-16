@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
