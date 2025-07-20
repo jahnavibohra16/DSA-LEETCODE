@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -234,12 +236,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
