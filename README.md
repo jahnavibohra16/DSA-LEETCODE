@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0908-middle-of-the-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
