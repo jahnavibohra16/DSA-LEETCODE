@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
