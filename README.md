@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -287,11 +289,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Monotonic Queue
 |  |
