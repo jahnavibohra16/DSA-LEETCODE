@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1002-maximum-width-ramp](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0904-fruit-into-baskets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0904-fruit-into-baskets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
