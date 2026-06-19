@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 | [1002-maximum-width-ramp](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
