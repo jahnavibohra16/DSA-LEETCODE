@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0859-design-circular-deque) |
+| [0875-koko-eating-bananas](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 ## Segment Tree
