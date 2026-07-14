@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
