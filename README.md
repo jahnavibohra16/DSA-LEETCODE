@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 ## Segment Tree
