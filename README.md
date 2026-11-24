@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -346,5 +348,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
