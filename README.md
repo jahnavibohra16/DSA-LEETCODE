@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
