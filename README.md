@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
 | ------- |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
