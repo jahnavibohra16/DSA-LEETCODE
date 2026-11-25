@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3934-smallest-unique-subarray](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2586-longest-square-streak-in-an-array) |
+| [3934-smallest-unique-subarray](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -361,4 +364,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
