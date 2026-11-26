@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1013-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3360-stone-removal-game](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2058-concatenation-of-array](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3360-stone-removal-game](https://github.com/jahnavibohra16/DSA-LEETCODE/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
